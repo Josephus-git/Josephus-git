@@ -15,6 +15,7 @@ I'm a backend enthusiast who loves crafting elegant and innovative solutions.
   <a href="mailto:your_email@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Google Mail" title="Google Mail"/>
   </a>
 </p>
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" title="Go"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
@@ -25,6 +26,14 @@ I'm a backend enthusiast who loves crafting elegant and innovative solutions.
  <img width="93" height="28" alt="image" src="https://github.com/user-attachments/assets/9dd1ba91-9f81-457c-b01f-c2e6820956a3" />
   <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/d01ac61e-84e4-4430-830f-151dde93ddbe" />
  <img width="52" height="28" alt="image" src="https://github.com/user-attachments/assets/4250bc5c-f2a3-47bd-ba02-305b2b4c3385" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 <!--
